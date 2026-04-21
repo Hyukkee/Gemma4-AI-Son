@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+.expo/
+
+# Python
+venv/
+**/venv/
+__pycache__/
+*.pyc
+
+# AI Models & Audio/Video Data
+*.pt
+tts_models/
+*.mp4
+*.wav
+*.jpg
+uploads/
+
+# Environment Variables
+.env

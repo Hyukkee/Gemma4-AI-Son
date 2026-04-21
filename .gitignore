@@ -1,0 +1,11 @@
+﻿**/venv/
+venv/
+**/node_modules/
+**/.expo/
+__pycache__/
+*.mp4
+*.wav
+*.pt
+*.pth
+*.pyd
+*.dll
